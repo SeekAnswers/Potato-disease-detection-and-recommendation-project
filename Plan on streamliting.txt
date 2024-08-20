@@ -1,0 +1,7 @@
+Plan on provisioning to app via streamlit
+Import streamlit
+Create an st.header('Potato disease prediction/diagnosis assistant/system')
+Create a st.button which would say 'upload image'(st.button('upload image'))
+Create st.subheader('Likely disease')
+Create a st.button which would say 'predict'(st.button('predict'))
+Can consider adding recommendations to remedy
